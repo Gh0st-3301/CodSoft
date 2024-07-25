@@ -1,0 +1,4 @@
+This is a basic version of the Password Generator or manager. This application is created using the basic concepts and understanding of Cryptography. 
+
+This password Generator works on the principle of Encryption and Decryption of plain text to cipher text.
+

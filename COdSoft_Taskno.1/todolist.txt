@@ -1,0 +1,15 @@
+This is a Basic version of the to-do list application.
+
+This application can manage tasks. 
+
+The application features:
+    1. Add task button
+    2. Delete Task button
+    3. mark as complete task button feature
+    4. Clear All button to clear all the tasks.
+
+
+There is an interface to see the tasks added to the list.
+
+And there is a interface where you can write up the task to assign in for the time and click on Add tasks.
+
